@@ -1,5 +1,6 @@
 
-## 📜 Oracle of Delphi Token (ODEL)
+##![odel token sml](https://github.com/user-attachments/assets/224ff27c-f9dc-420b-99bf-d4a3e38cf90a)
+ 📜 Oracle of Delphi Token (ODEL)
 
 **"The token that knows its worth."**
 
