@@ -30,8 +30,8 @@ This is not a hype coin. It’s an economic experiment in **open minting**, **ow
 
 Special Note: These are expensive to mint and much cheaper to buy on my contract after the Oracle has been cast.  
 
-You mint for 20000000000000000 and you get your oracle and can buy the same coin right back for 50% off. 
-20000000000000000 to mint ----->  10000000000000000 to buy 
+You mint for 2/100th's of a Pol and you get your oracle and can buy the same coin right back for 50% off. 
+ 2/100th's of a Pol to mint ----->   1/100th's of a Pol to buy 
 
 
 ### 💰 Minting Logic
